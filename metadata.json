@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "씨마스고등학교의 맛있는 급식 식단표, 상세 주간 영양 정보를 간편하게 조회 및 계산할 수 있는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
